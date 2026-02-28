@@ -1,7 +1,7 @@
 # ¡Hola! Soy Torres Zegarra Ismael 👋 🇵🇪
 
 ### 🚀 Estudiante de Desarrollo de Sistemas | Futuro Data Analyst
-Actualmente cursando la carrera con **Excelencia Académica** (Promedio Sobresaliente 📈). Mi meta es transformar datos en decisiones estratégicas mediante SQL, Python e IA Comprometido con el aprendizaje autodidacta para dominar las últimas tecnologías en análisis de datos e IA.
+Actualmente cursando la carrera con **Excelencia Académica** (Promedio Sobresaliente 📈). Mi meta es transformar datos en decisiones estratégicas mediante SQL, Python e IA. Comprometido con el aprendizaje autodidacta para dominar las últimas tecnologías en análisis de datos e IA.
 
 ---
 
